@@ -25,11 +25,11 @@
   "homepage": "https://github.com/bitnine-oss/agensgraph-nodejs#readme",
   "dependencies": {
     "lodash": "^4.17.10",
-    "pg": ">= 6.1.2"
+    "pg": ">= 6.1.2",
+    "pegjs": "^0.10.0"
   },
   "devDependencies": {
     "mocha": "^4.0.1",
-    "pegjs": "^0.10.0",
     "pegjs-loader": "^0.5.4",
     "webpack": "^3.10.0"
   }
